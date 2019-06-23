@@ -1,5 +1,5 @@
 import os 
-
+ 
 def validar(val):
 	flag = 0
 	for x in val:
