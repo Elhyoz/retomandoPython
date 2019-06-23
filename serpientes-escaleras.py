@@ -1,7 +1,7 @@
 
 import random as rnd
 
-
+'''Comentario de cambio para commit'''
 meta = 64
 
 
